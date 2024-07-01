@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Erick Monga and I'm a Data Scientist and Economist currently living in The Netherlands 🌷
+My name is Erick Monga. I'm a Data Scientist and Economist currently living in The Netherlands 🌷
 
 ## About me
 ✨ Creating bugs since 1998  
