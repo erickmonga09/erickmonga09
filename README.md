@@ -32,6 +32,9 @@ My name is Erick Monga. I'm a Data Scientist and Economist currently living in T
   </a>
   <a href="https://discord.com/users/321380682922328064" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:erickmongames@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo"  />
+  </a>
 </div>
     
 <div align="center">
